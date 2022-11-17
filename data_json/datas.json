@@ -1,0 +1,66 @@
+[
+{
+	"identifier": "abc122",
+	"identifier_image": "1_id.png",
+	"results": [3, 5, 4, 6, 3],
+	"result_image": "1_r.png",
+	"confirmed_identifier": "ABC123",
+	"confirmed_results": []
+},
+{
+	"identifier": "abc567",
+	"identifier_image": "2_id.png",
+	"results": [2, 3, 4, 3, 2],
+	"result_image": "2_r.png",
+	"confirmed_identifier": "abc567",
+	"confirmed_results": [2, 3, 1, 3, 2]
+},
+{
+	"identifier": "dfg890",
+	"identifier_image": "3_id.png",
+	"results": [1, 1, 1, 1, 1, 1],
+	"result_image": "3_r.png",
+	"confirmed_identifier": "dgg888",
+	"confirmed_results": [1, 1, 1, 1, 2, 3]
+},
+{
+	"identifier": "uiu234",
+	"identifier_image": "4_id.png",
+	"results": [9, 9, 8, 8, 7, 7],
+	"result_image": "4_r.png",
+	"confirmed_identifier": "",
+	"confirmed_results": [9, 9, 6, 6, 1, 1]
+},
+{
+	"identifier": "bnm345",
+	"identifier_image": "5_id.png",
+	"results": [6, 6, 1, 3, 7],
+	"result_image": "5_r.png",
+	"confirmed_identifier": "",
+	"confirmed_results": []
+},
+{
+	"identifier": "ert234",
+	"identifier_image": "6_id.png",
+	"results": [6, 3, 1, 4, 7],
+	"result_image": "6_r.png",
+	"confirmed_identifier": "rtz345",
+	"confirmed_results": [6, 3, 1, 4]
+},
+{
+	"identifier": "yxc834",
+	"identifier_image": "7_id.png",
+	"results": [6, 1, 7, 1, 6, 8],
+	"result_image": "7_r.png",
+	"confirmed_identifier": "",
+	"confirmed_results": [1, 6, 8, 1, 7, 8]
+},
+{
+	"identifier": "ktd742",
+	"identifier_image": "8_id.png",
+	"results": [1, 5, 3, 7, 9, 2, 7, 9],
+	"result_image": "8_r.png",
+	"confirmed_identifier": "",
+	"confirmed_results": []
+}
+]
